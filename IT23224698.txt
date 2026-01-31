@@ -1,0 +1,14 @@
+# Student Registration Number: IT23224698
+
+ Module: IT3040 – ITPM
+ Assignment: Assignment 1
+ Semester: Year 3 – Semester 1
+
+GitHub Repository Link:
+https://github.com/sethmiduhimsara/IT23224698
+
+The repository is publicly accessible and contains:
+- All Playwright automation scripts
+- Configuration files
+- package.json and dependencies
+- README file with setup and execution instructions
